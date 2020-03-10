@@ -1,8 +1,4 @@
 # Microbit Smart Fire Extinguisher
 <h3><b>2/7/20-2/27/20</b></h3>
 
-<video width="320" height="240" controls>
-  <source src="
-https://github.com/abdullah20401/Microbit-Smart-Fire-Extinguisher/blob/master/project.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/s/4m3j8/lqbwaq" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
