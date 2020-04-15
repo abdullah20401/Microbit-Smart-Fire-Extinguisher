@@ -35,7 +35,7 @@ s.baudrate = baud
 def send_alarm_to_phone(location, fahrenheit, celcius):
     report = {}
     report["value1"] = f"{location} is on fire and the temperature is {fahrenheit}°F or {celcius}°C"
-    requests.post("https://maker.ifttt.com/trigger/Fire/with/key/cOmqtjD9p8iTtzuIRioI7XUjBpkskCGP96XonGYzS0n", params=report)
+    requests.post("https://maker.ifttt.com/trigger/Fire/with/key/IFTTT Code", params=report)
     
 while True:
     data = s.readline().decode("utf-8")[:-2].split(':')
